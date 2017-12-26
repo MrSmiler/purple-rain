@@ -42,7 +42,6 @@ pygame.display.set_caption('PurpleRain')
 pygame.display.update()
 
 gameexit = False
-is_keydown = False
 drops = []
 widths = [i for i in range(1,5)]
 heights = [i for i in range(15,40,4)]
