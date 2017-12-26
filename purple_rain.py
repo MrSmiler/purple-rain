@@ -1,8 +1,9 @@
 #!/usr/bin/python3
 
+from random import randint , choice
 import pygame
-from random import randint
-from random import choice
+
+
 
 
 #classes
