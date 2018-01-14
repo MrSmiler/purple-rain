@@ -1,4 +1,4 @@
 # purple-rain
 purple rain coding challenge in python using pygame
 
-<a href="https://imgflip.com/gif/22nsfw"><img src="https://i.imgflip.com/22nsfw.gif" title="made at imgflip.com"/></a>
+<img src="https://github.com/MrSmiler/purple-rain/blob/master/purple-rain.gif" />
