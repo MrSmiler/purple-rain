@@ -7,7 +7,7 @@ import pygame
 
 
 #classes
-class drop:
+class Drop:
     def __init__(self,surface , color , x, y , width , height ,gravity):
         self.surface = surface
         self.color = color 
@@ -53,7 +53,7 @@ for i in range(500):
     x = randint(10,890)
     y = -1*randint(300 , 1500)
     width , height , g = choice(size) 
-    raindrop = drop(gamedisplay , purple,x,y,width , height,g)  
+    raindrop = Drop(gamedisplay , purple,x,y,width , height,g)  
     drops.append(raindrop)
 
 #main loop
