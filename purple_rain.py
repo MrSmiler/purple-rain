@@ -1,8 +1,10 @@
 #!/usr/bin/python3
 
 from random import randint , choice
-import pygame
-
+try:
+    import pygame
+except ImportError:
+    print("please install pygame module with 'pip install pygame'")
 
 
 
